@@ -1,7 +1,7 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://dolphiiiin.github.io/template-package-listing/index.json",
+    "name":"com.dolphiiiin.vpm",
+    "id":"com.dolphiiiin.vpm",
+    "url":"https://dolphiiiin.github.io/vpm-repos/index.json",
     "author":{
         "email":"dolphiiiin@outlook.jp",
         "name":"Dolphiiiin",
@@ -9,7 +9,7 @@
     },
     "description":"Example listing of VRChat packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"https://github.com/Dolphiiiin/vpm-repos",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
