@@ -3,11 +3,11 @@
     "id":"com.dolphiiiin.vpm",
     "url":"https://dolphiiiin.github.io/vpm-repos/index.json",
     "author":{
-        "email":"dolphiiiin@outlook.jp",
+        "email":"dolphiiiin@users.noreply.github.com",
         "name":"Dolphiiiin",
         "url":"https://dolphiiiin.carrd.co/"
     },
-    "description":"Example listing of VRChat packages",
+    "description":"com.dolphiiiin.vpm",
     "infoLink":{
         "url":"https://github.com/Dolphiiiin/vpm-repos",
         "text":"View on GitHub"
